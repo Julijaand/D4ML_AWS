@@ -17,7 +17,7 @@ variable "instance_type" {
     default = "t2.micro"
 }
 
-variable "bucket" {
-    description = "The name of the bucket"
-    default = "j.andrusenko-bucket"
-}
+# variable "bucket" {
+#     description = "The name of the bucket"
+#     default = "j.andrusenko-bucket"
+# }
